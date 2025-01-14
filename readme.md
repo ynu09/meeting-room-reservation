@@ -45,7 +45,7 @@ meeting-room-reservation/
 
 ### 실행 영상
 
-[https://youtu.be/Qd0D5gxUApQ](https://youtu.be/Qd0D5gxUApQ)
+[![Watch the video](https://img.youtube.com/vi/Qd0D5gxUApQ/hqdefault.jpg)](https://www.youtube.com/watch?v=Qd0D5gxUApQ)
 
 ### 실행 방법
 
