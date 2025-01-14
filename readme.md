@@ -22,12 +22,9 @@ meeting-room-reservation/
 
 | 기능 | 설명 |
 | --- | --- |
-| 로그인 시스템 | - login.csv 파일을 사용하여 ID와 비밀번호 비교 및 검증
-- 성공 또는 실패 여부를 GUI 팝업으로 알림 |
-| 예약 관리 | - 특정 시간에 대한 회의실 예약
-- 예약 조회(정보 확인), 수정(시간/인원 변경), 취소(특정 예약 삭제), 시간 연장 기능 제공 |
-| 데이터 저장 | - 예약 정보를 CSV 파일로 저장 및 불러오기
-- 새로운 예약 추가 시 reservations.csv 파일 자동 업데이트 |
+| 로그인 시스템 | login.csv 파일을 사용하여 ID와 비밀번호 비교 및 검증, 성공 또는 실패 여부를 GUI 팝업으로 알림 |
+| 예약 관리 | 특정 시간에 대한 회의실 예약 → 예약 조회(정보 확인), 수정(시간/인원 변경), 취소(특정 예약 삭제), 시간 연장 기능 제공 |
+| 데이터 저장 | CSV 파일로 예약 정보 저장 및 불러오기, 새로운 예약 추가 시 reservations.csv 파일 자동 업데이트 |
 
 ### 기술 스택
 
@@ -35,9 +32,17 @@ meeting-room-reservation/
 | --- | --- |
 | 개발 환경 | Ubuntu 22.04 |
 | 개발 언어 | Python |
-| 통신 프로토콜 | ROS2 |
 | UI | tkinter |
 | 데이터 저장소 | CSV 파일 |
+
+### 주어진 미션 및 구상
+
+![img1](https://github.com/user-attachments/assets/1b6a9c25-20f9-4cd2-9a8f-1fce27916174)
+
+![img2](https://github.com/user-attachments/assets/15560088-9ae0-42e8-af71-6faffc95af87)
+
+[구상.pdf](github%20readme%20%E1%84%86%E1%85%B5%E1%84%90%E1%85%B5%E1%86%BC%E1%84%85%E1%85%AE%E1%86%B7%20%E1%84%8B%E1%85%A8%E1%84%8B%E1%85%A3%E1%86%A8%2017760095cba180999749d9add5f09b16/%25EA%25B5%25AC%25EC%2583%2581.pdf)
+
 
 ### 결과물
 
