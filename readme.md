@@ -38,11 +38,9 @@ meeting-room-reservation/
 ### 주어진 미션 및 구상
 
 ![img1](https://github.com/user-attachments/assets/1b6a9c25-20f9-4cd2-9a8f-1fce27916174)
-
 ![img2](https://github.com/user-attachments/assets/15560088-9ae0-42e8-af71-6faffc95af87)
 
-[구상.pdf](github%20readme%20%E1%84%86%E1%85%B5%E1%84%90%E1%85%B5%E1%86%BC%E1%84%85%E1%85%AE%E1%86%B7%20%E1%84%8B%E1%85%A8%E1%84%8B%E1%85%A3%E1%86%A8%2017760095cba180999749d9add5f09b16/%25EA%25B5%25AC%25EC%2583%2581.pdf)
-
+[구상.pdf](./구상.pdf)
 
 ### 결과물
 
